@@ -1,1 +1,1 @@
-# For my final individual project, I am planning to design a video game that is interactive with a touch screen, joystick and buttons. The game will be survival based where the goal is to protect the player from falling objects. the player can move left and right with the joystick and shoot projectiles with the button, but also adding the option to tap projectiles on the screen to remove them aswell. 
+Project Discription is in the Wiki. 
